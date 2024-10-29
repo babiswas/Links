@@ -7,3 +7,5 @@ Account1    Account2
                  Role to access the resource
                  Policy attached to the role.
 <--------Trust----->
+https://www.youtube.com/watch?v=CnvfO12zWaY
+
