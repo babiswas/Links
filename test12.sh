@@ -1,6 +1,3 @@
-hello
-bello
-mello
-li
-export GRADLE_HOME=/opt/gradle/gradle-5.2.1
+https://stackoverflow.com/questions/63241009/aws-sts-assume-role-in-one-command
+
 
