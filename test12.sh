@@ -9,3 +9,11 @@ Account1    Account2
 <--------Trust----->
 https://www.youtube.com/watch?v=CnvfO12zWaY
 
+Trust Types
+===========
+1.Across accounts.
+2.Third party
+3.Conditional(Two factor auth,ip adress)
+4.Preventing across orgs and allowing services from anywhere.
+
+
