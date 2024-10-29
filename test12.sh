@@ -16,4 +16,9 @@ Trust Types
 3.Conditional(Two factor auth,ip adress)
 4.Preventing across orgs and allowing services from anywhere.
 
+AWS profiles:
+cat ~/.aws/configure
+aws configure list-profiles
+
+
 
